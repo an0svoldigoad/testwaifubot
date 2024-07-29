@@ -6,7 +6,7 @@ class Config(object):
     sudo_users = "5914304439"
     GROUP_ID = -1002133191051
     TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://babawazeer33:ShitOnYourFace@grabthemdb.pxqjwig.mongodb.net/?retryWrites=true&w=majority"
+    mongo_url = "mongodb+srv://babawazeer33:MaouAnos@grabthemdb.pxqjwig.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "anime_kingdom_group_chat"
     UPDATE_CHAT = "anime_kingdom_group_chat"
