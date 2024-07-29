@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "6765826972"
     sudo_users = "5914304439"
     GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
+    TOKEN = "6384445315:AAF1exVSDGdykV_GIGhCXmgoSlf6ZWPiQ98"
     mongo_url = "mongodb+srv://gotouhitoriii:7vzXrCihdSZfTtEs@haremgod.rxndc2y.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "anime_kingdom_group_chat"
